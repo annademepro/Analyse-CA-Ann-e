@@ -39,5 +39,5 @@ Télécharger `Pilotage_BTP.pbix` et l'ouvrir avec [Power BI Desktop](https://po
 Power BI, Power Query, DAX
 
 ## Auteure
-Anna Deme – [www.linkedin.com/in/annademe-pro]
+Anna Deme – www.linkedin.com/in/annademe-pro
 Sous la supervision du Professeur Blachon.T
