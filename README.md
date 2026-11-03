@@ -1,15 +1,13 @@
 # Pilotage BTP – Tableau de bord Power BI
 
 ## Contexte
-[Cadre du projet : cours, mission, projet personnel… Les données sont-elles réelles ou fictives ?]
-
+Découverte et prise en main de Power BI, dans le cours de Datavisualisation au Cnam
 ## Objectif
-Suivre l'activité commerciale d'une entreprise du BTP : chiffre d'affaires, répartition par type de client et d'intervention, et satisfaction client.
-
+Appréhender pas à pas le logiciel à partir d’un cas de figure simple et construire un premier outil de pilotage
 ## Données
 - Table principale : `base_clients` (clients, devis, interventions)
 - Champs utilisés : date du devis, chiffre d'affaires, nom du client, type de client, type d'intervention, satisfaction client (note sur 10)
-- Source : [à préciser]
+- Source : Données issues de Blachon.T, cours de Datavisualisation(BI)
 
 ## Contenu du tableau de bord
 Le rapport comporte deux pages :
@@ -41,4 +39,5 @@ Télécharger `Pilotage_BTP.pbix` et l'ouvrir avec [Power BI Desktop](https://po
 Power BI, Power Query, DAX
 
 ## Auteure
-Anna Deme – [lien LinkedIn]
+Anna Deme – [www.linkedin.com/in/annademe-pro]
+Sous la supervision du Professeur Blachon.T
